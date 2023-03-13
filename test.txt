@@ -1,0 +1,2 @@
+CHL00008.ref.fasta
+Hello

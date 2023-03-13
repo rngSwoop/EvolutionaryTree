@@ -1,0 +1,21 @@
+Igor Kartasovas Truccolo de Macedo / Garrett King
+
+Igor Kartasovas Truccolo de Macedo / Garrett King
+
+We will be implementing a program that builds and manipulates trees. The program will be used to compare the sequences 
+within the trees and build a structure that follows a hierarchical pattern, which states the relationship between the 
+species in the tree. We plan to start working on the constructor first and then work our way to the inputs and outputs, 
+writing files. Essentially follow the sequence of methods that need to be written.
+
+For now, our plan for the schedule is to meet everyday , on the lab from 4 to 7pm everyday, initially. Potentially, we 
+could fill more hours during the day if needed.
+
+We feel that the most challenging aspect of this assignment is going to be finding time to work on the program together 
+as much as we can, since it´s a pair programming project.
+
+A list of sources we plan to use if we get stuck would be the professor´s office hours, TA office hours and the CS 
+tutoring center.
+
+
+
+
